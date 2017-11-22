@@ -1,0 +1,15 @@
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\BL\bin\Debug\BL.dll
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\BL\bin\Debug\BL.pdb
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\BL\bin\Debug\AutoMapper.dll
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\BL\bin\Debug\DL.dll
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\BL\bin\Debug\DL.pdb
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\BL\bin\Debug\AutoMapper.xml
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\BL\obj\Debug\BL.dll
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\BL\obj\Debug\BL.pdb
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\BL\bin\Debug\Autofac.dll
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\BL\bin\Debug\Autofac.xml
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\BL\bin\Debug\EF.dll
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\BL\bin\Debug\EntityFramework.dll
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\BL\bin\Debug\EF.pdb
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\BL\bin\Debug\EntityFramework.xml

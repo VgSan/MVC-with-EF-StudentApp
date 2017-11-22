@@ -1,0 +1,7 @@
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\DL\bin\Debug\DL.dll
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\DL\bin\Debug\DL.pdb
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\DL\obj\Debug\DL.dll
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\DL\obj\Debug\DL.pdb
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\DL\bin\Debug\Autofac.dll
+c:\Users\CNG\documents\visual studio 2015\Projects\WebMVC\DL\bin\Debug\Autofac.xml
